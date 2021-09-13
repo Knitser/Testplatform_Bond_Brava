@@ -1,0 +1,23 @@
+Spanning -> python 
+- continu meting in C relais aanhouden.
+- checkbox (toggle) : continu meting anders 1 meting.
+- live graph spanning (variabele tijd, eventueel y-as).
+
+Current 
+- slider weg
+- timer vast, retun sense resistor on change
+- live graph current (variabele tijd, eventueel y-as)
+- live current weergave + totaal verbuik (mAh), reset (mAh)
+
+batterij simulator
+
+- relais wordt automatisch ingeschakeld wanneer simulator start
+- batterij simulator profile (discharge of charge profile) (text file of data)
+- vb voltage verlagen na zoveel minuten.
+- lineair zakken van het eerste punt naar het 2de punt bv van 4v tot 3.8v en dan van 3.8 naar 3.2v in een tijd van 5min.
+- discharge button (main power supply moet afgezet worden na de sim aanstaat).
+- charge button (power supply gaat terug aan.) 
+
+
+
+
